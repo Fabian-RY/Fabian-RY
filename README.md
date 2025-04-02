@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Fabian-RY a young Bioinformatician eager take learn in this field
-- 👀 I’m interested in several topics around the field, but my current job makes me focus on variant discovery and sequence analysis.
-- 🌱 I’m quite experienced now with singularity containers for HPC and web development using django!
-- 🏥 In my current job I am developing pipelines for DNA-seq and GWAS, and (sc)RNA-seq.
+- 👋 Hi, I’m @Fabian-RY a young versatile Bioinformatician eager take learn in this field
+- 👀 I’m interested in several topics around the field, but my current job makes me focus on infrastructure and tool developmente more than data-analysis.
+- 🌱 I’m quite experienced now with containerization, especially docker, singularity containers for HPC and web development using django!
+- 🏥 In my current job I am giving support to several different tools, each of which use fairly different stacks, 
 - 🤖 I like machine learning and IA, and i have some experience too!
 - 📫 If you want to contact me, just email me to fabianry97@gmail.com!
