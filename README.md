@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @Fabian-RY a young versatile Bioinformatician eager take learn in this field
 - 👀 I’m interested in several topics around the field, but my current job makes me focus on infrastructure and tool developmente more than data-analysis.
 - 📊 But I'm experieced in Data analysis too! I love the R ecosystem, and excel in python for Data Analysis.
-- 🌱 I’m quite experienced now with containerization, especially docker, singularity containers for HPC and web development using django!
-- 👨‍💻 You know what? I love self-hosting apps! Right now my 2 personal servers host a wide range of tools, from VPNs to Nexcloud, including Fediverse servers, bots, cooking recipes and food schedules, and finally, automating IOT things (well, this last one is yet a WIP)
+- 🫙 I’m quite experienced now with containerization, especially docker, singularity containers for HPC and web development using django!
+- 👨‍💻 You know what? I love self-hosting apps! Right now my 2 personal servers host a wide range of tools, from VPNs to Nexcloud, including Fediverse servers, bots, cooking recipes and food schedules, and finally, automating IOT things . My Raspberry Pi takes care of my digital life, with a setup of 1.5 TB to automate many, many things
+- 🍳 Did I say I love Cooking? And DIY? I have some plans on combining food and robotics, but you'll have to wait for that (too little spare time rn 😔)
 - 🪽 Proud supporter of Free-Libre Software apps!
-- 🏥 In my current job I am giving support to several different tools, each of which use fairly different stacks, reach, usage and goals, that means I should (and can) to a lot of different technologies
-- 🤖 I like machine learning and AI, and i have some experience too in unsupervised models and neural networks!
+- 🧰 In my current job I am giving support to several different tools, each of which use fairly different stacks, reach, usage and goals, that means I can do a lot of different technologies. I'm very versatile to maintain different apps!
+- 📖 I'm currently learning about automations on scientific instrumentation and distributed systems communication. Robotics is sooo cool!
+- 🤖 I like machine learning and, and i have some experience too in unsupervised models and neural networks!
 - 📫 If you want to contact me, just email me to fabianry97@gmail.com!
