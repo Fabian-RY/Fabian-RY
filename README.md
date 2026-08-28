@@ -8,4 +8,3 @@
 - 🧰 In my current job I am giving support to several different tools, each of which use fairly different stacks, reach, usage and goals, that means I can do a lot of different technologies. I'm very versatile to maintain different apps!
 - 📖 I'm currently learning about automations on scientific instrumentation and distributed systems communication. Robotics is sooo cool!
 - 🤖 I like machine learning and, and i have some experience too in unsupervised models and neural networks!
-- 📫 If you want to contact me, just email me to fabianry97@gmail.com!
